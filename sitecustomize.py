@@ -1,12 +1,3 @@
-# Set up the system so that this development
-# version of google-api-python-client is run, even if
-# an older version is installed on the system.
-#
-# To make this totally automatic add the following to
-# your ~/.bash_profile:
-#
-# export PYTHONPATH=/path/to/where/you/checked/out/googleapiclient
-import sys
-import os
-
-sys.path.insert(0, os.path.dirname(__file__))
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd0944fb91404eb4599ec4632771b88cf716a3c9bd0f00110ee6d9c30aa39d0
+size 363

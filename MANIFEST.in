@@ -1,8 +1,3 @@
-recursive-include apiclient *.json *.py
-include CHANGELOG
-include LICENSE
-include README
-include FAQ
-include setpath.sh
-recursive-include tests *
-global-exclude *.pyc __pycache__
+version https://git-lfs.github.com/spec/v1
+oid sha256:f82c23f193ea837356a93597b728dcc2be720a93c579da615ef04048e9f494a2
+size 179

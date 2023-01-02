@@ -1,5 +1,3 @@
-# Where are the samples?
-
-The DoubleClick Ad Exchange Buyer REST API samples are now hosted separately
-from the client library project. You can find them
-[here](https://github.com/googleads/googleads-adxbuyer-examples/tree/master/python).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3852a3d790b88a78d6cb7233fadc2b3f6a1f9964901c044c4aa89c5632fb99
+size 239
